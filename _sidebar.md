@@ -7,3 +7,5 @@
   * [Docsify部署教程](/ProjectDocs/Docsify部署教程.md)
 * 日寄
   * [2022-7-16](/日寄/2022-7-16.md)
+* journals
+  * [](\journals\2022_07_15.md) 
